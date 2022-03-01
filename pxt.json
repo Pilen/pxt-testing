@@ -1,8 +1,8 @@
 {
     "name": "myproject",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "some project",
-    "licence": "MIT",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
         "radio": "*",
